@@ -1,6 +1,6 @@
 # Classification of Music Genre
 
-This project proposes a framework for music genre classification using the GTZAN dataset and ensemble machine learning models. It enables applications like personalized music recommendations and computational musicology.
+This project develops a robust framework for music genre classification by combining advanced signal processing techniques with ensemble machine learning methods. Using the GTZAN dataset (1,000 tracks across 10 genres), the study extracts features like spectrogram statistics, MFCCs, spectral contrast, and chroma features to capture rhythmic, harmonic, and timbral attributes. The final ensemble model, built from multiple machine learning algorithms, achieves high accuracy and robustness, validated through statistical tests and performance metrics. This research supports applications in music recommendation systems, music therapy, and computational musicology
 
 ---
 
